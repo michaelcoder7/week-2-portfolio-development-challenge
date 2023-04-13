@@ -27,3 +27,22 @@ WHEN I click on the images of the applications
 THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
+
+
+## All the important steps needed to fulfill the Acceptance Criteria were commented in the HTML and CSS files 
+
+## Below are the essential tasks in the html code
+Reset Css file added to prevent style clashes <br>
+Nav tag used inorder to make navigation links on website 
+Main tag used in order to make css multimedia screen adaptation more organised in css file 
+"A" tag used with img tag to make the image a link 
+
+
+## Below are the essential tasks in the CSS code
+Root selector used to simplify coloring
+Pseudo code implemented in website's navigation bar and to also make project's image enlarge upon being hovered
+Media selector used for multi screen website adaptations
+
+
+## Image of website
+<img src=./assets/images/personal-website.jpg>
