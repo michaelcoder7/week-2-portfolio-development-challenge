@@ -45,4 +45,4 @@ Media selector used for multi screen website adaptations
 
 
 ## Image of website
-<img src=./assets/images/personal-website.jpg>
+![personal-website](https://user-images.githubusercontent.com/128432461/231874310-94758cda-35d3-4bbb-981b-abb27beb7458.jpg)
