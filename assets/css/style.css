@@ -40,7 +40,9 @@ body {
 nav {
     display: flex;
     background-color: var(--dark);
+
     }
+
 
 nav a {    
     color: var(--text1);

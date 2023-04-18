@@ -44,5 +44,14 @@ Pseudo code implemented in website's navigation bar and to also make project's i
 Media selector used for multi screen website adaptations
 
 
-## Image of website
-![personal-website](https://user-images.githubusercontent.com/128432461/231874310-94758cda-35d3-4bbb-981b-abb27beb7458.jpg)
+## Screenshots of Web Application / Website
+
+![Screenshot 1](./assets/images/personal-website.jpg)
+
+![Screenshot 2](./assets/images/personal-website-image-2.jpg)
+
+
+## Link to Deployed Website
+https://michaelcoder7.github.io/week-2-portfolio-development-challenge/
+
+
