@@ -28,7 +28,6 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
-
 ## All the important steps needed to fulfill the Acceptance Criteria were commented in the HTML and CSS files 
 
 ## Below are the essential tasks in the html code
@@ -46,9 +45,9 @@ Media selector used for multi screen website adaptations
 
 ## Screenshots of Web Application / Website
 
-![Screenshot 1](./assets/images/personal-website.jpg)
+![Screenshot 1](https://user-images.githubusercontent.com/128432461/232711200-c0f3feb3-8032-479d-8dcc-3376373731cf.png)
 
-![Screenshot 2](./assets/images/personal-website-image-2.jpg)
+![Screenshot 2](https://user-images.githubusercontent.com/128432461/232711815-7a4331fc-c307-463c-97ec-42771a738b0d.png)
 
 
 ## Link to Deployed Website
